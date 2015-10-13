@@ -1,0 +1,30 @@
+Oromis received 2 training points at Mon Apr 14 12:24:32 2014
+call chain: ({ /* sizeof() == 2 */
+  /secure/daemon/players,
+  /secure/save/players/o/oromis
+})
+Testhat received 2 training points at Tue Apr 22 18:02:37 2014
+call chain: ({ /* sizeof() == 2 */
+  /secure/daemon/players,
+  /secure/save/players/t/testhat
+})
+Testhat received 3 training points at Tue Apr 22 18:02:42 2014
+call chain: ({ /* sizeof() == 2 */
+  /secure/daemon/players,
+  /secure/save/players/t/testhat
+})
+Testhat received 4 training points at Tue Apr 22 18:02:47 2014
+call chain: ({ /* sizeof() == 2 */
+  /secure/daemon/players,
+  /secure/save/players/t/testhat
+})
+Testhat received 5 training points at Tue Apr 22 18:03:17 2014
+call chain: ({ /* sizeof() == 2 */
+  /secure/daemon/players,
+  /secure/save/players/t/testhat
+})
+Testhat received 6 training points at Tue Apr 22 18:33:53 2014
+call chain: ({ /* sizeof() == 2 */
+  /secure/daemon/players,
+  /secure/save/players/t/testhat
+})

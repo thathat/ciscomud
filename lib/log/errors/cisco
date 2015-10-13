@@ -1,0 +1,113 @@
+2014.04.06-18.53,06 /domains/cisco/room/hillsw1.c line 27: syntax error
+2014.04.06-18.53,06 /domains/cisco/room/hillsw1.c line 27: syntax error
+2014.04.06-18.53,23 /domains/cisco/room/hillsw1.c line 27: syntax error
+2014.04.06-19.02,26 /domains/cisco/obj/swing.c line 24: Redeclaration of function init.
+2014.04.06-19.02,26 /domains/cisco/obj/swing.c line 24: Redeclaration of function init.
+2014.04.06-19.50,38 /domains/cisco/obj/swing.c line 26: syntax error
+2014.04.06-19.50,38 /domains/cisco/obj/swing.c line 26: syntax error
+2014.04.06-19.57,31 /domains/cisco/obj/swing.c line 26: syntax error
+2014.04.06-19.57,31 /domains/cisco/obj/swing.c line 26: syntax error
+2014.04.06-20.01,18 /domains/cisco/obj/swing.c line 23: syntax error
+2014.04.06-20.01,18 /domains/cisco/obj/swing.c line 23: syntax error
+2014.04.06-20.02,05 /domains/cisco/obj/swing.c line 23: syntax error
+2014.04.06-20.02,05 /domains/cisco/obj/swing.c line 23: syntax error
+2014.04.06-20.02,05 /domains/cisco/obj/swing.c line 23: syntax error
+2014.04.06-20.03,11 /domains/cisco/obj/swing.c line 23: syntax error
+2014.04.06-20.03,11 /domains/cisco/obj/swing.c line 23: syntax error
+2014.04.06-20.13,46 /domains/cisco/room/hillsw1.c line 52: syntax error
+2014.04.06-20.13,46 /domains/cisco/room/hillsw1.c line 52: syntax error
+2014.04.09-12.52,47 /domains/cisco/room/bridge1.c line 13: syntax error
+2014.04.09-12.52,47 /domains/cisco/room/bridge1.c line 13: Illegal character constant
+2014.04.09-12.52,47 /domains/cisco/room/bridge1.c line 17: Illegal character constant
+2014.04.09-12.52,47 /domains/cisco/room/bridge1.c line 24: Illegal character constant
+2014.04.09-12.52,47 /domains/cisco/room/bridge1.c line 40: End of file in string
+2014.04.09-12.52,47 /domains/cisco/room/bridge1.c line 13: syntax error
+2014.04.09-12.52,47 /domains/cisco/room/bridge1.c line 13: Illegal character constant
+2014.04.09-12.52,47 /domains/cisco/room/bridge1.c line 17: Illegal character constant
+2014.04.09-12.52,47 /domains/cisco/room/bridge1.c line 24: Illegal character constant
+2014.04.09-12.52,47 /domains/cisco/room/bridge1.c line 40: End of file in string
+2014.04.10-10.58,38 /domains/cisco/room/ciscoburgdocks.c line 34: syntax error
+2014.04.10-10.58,38 /domains/cisco/room/ciscoburgdocks.c line 34: Illegal character constant
+2014.04.10-10.58,38 /domains/cisco/room/ciscoburgdocks.c line 34: syntax error
+2014.04.10-10.58,38 /domains/cisco/room/ciscoburgdocks.c line 34: Illegal character constant
+2014.04.10-11.20,25 /domains/cisco/room/ciscoburgalley.c line 21: Reserved type name unexpected.
+2014.04.10-11.20,25 /domains/cisco/room/ciscoburgalley.c line 21: syntax error
+2014.04.10-11.20,25 /domains/cisco/room/ciscoburgalley.c line 22: Illegal LHS
+2014.04.10-11.20,25 /domains/cisco/room/ciscoburgalley.c line 25: syntax error
+2014.04.10-11.20,25 /domains/cisco/room/ciscoburgalley.c line 21: Reserved type name unexpected.
+2014.04.10-11.20,25 /domains/cisco/room/ciscoburgalley.c line 21: syntax error
+2014.04.10-11.20,25 /domains/cisco/room/ciscoburgalley.c line 22: Illegal LHS
+2014.04.10-11.20,25 /domains/cisco/room/ciscoburgalley.c line 25: syntax error
+2014.04.10-11.47,28 /domains/cisco/room/ciscoburgalley.c line 16: syntax error
+2014.04.10-11.47,28 /domains/cisco/room/ciscoburgalley.c line 16: syntax error
+2014.04.10-11.55,40 /domains/cisco/room/ciscoburgalley.c line 23: Undefined variable 'search'
+2014.04.10-11.55,40 /domains/cisco/room/ciscoburgalley.c line 23: syntax error
+2014.04.10-11.55,40 /domains/cisco/room/ciscoburgalley.c line 23: Undefined variable 'search'
+2014.04.10-11.55,40 /domains/cisco/room/ciscoburgalley.c line 23: syntax error
+2014.04.10-11.56,17 /domains/cisco/room/ciscoburgalley.c line 23: Undefined variable 'search'
+2014.04.10-11.56,17 /domains/cisco/room/ciscoburgalley.c line 23: syntax error
+2014.04.10-11.56,49 /domains/cisco/room/ciscoburgalley.c line 23: Undefined variable 'search'
+2014.04.10-11.56,49 /domains/cisco/room/ciscoburgalley.c line 23: syntax error
+2014.04.10-12.09,53 /domains/cisco/room/ciscoburgalley.c line 23: Undefined variable 'search'
+2014.04.10-12.09,53 /domains/cisco/room/ciscoburgalley.c line 23: syntax error
+2014.04.10-12.09,53 /domains/cisco/room/ciscoburgalley.c line 23: Undefined variable 'search'
+2014.04.10-12.09,53 /domains/cisco/room/ciscoburgalley.c line 23: syntax error
+2014.04.10-12.10,48 /domains/cisco/room/ciscoburgalley.c line 23: Undefined variable 'PreExit'
+2014.04.10-12.10,48 /domains/cisco/room/ciscoburgalley.c line 23: syntax error
+2014.04.10-12.11,14 /domains/cisco/room/ciscoburgalley.c line 23: Undefined variable 'PreExit'
+2014.04.10-12.11,14 /domains/cisco/room/ciscoburgalley.c line 23: syntax error
+2014.04.10-12.12,38 /domains/cisco/room/ciscoburgalley.c line 23: Undefined variable 'PostExit'
+2014.04.10-12.12,38 /domains/cisco/room/ciscoburgalley.c line 23: syntax error
+2014.04.10-12.12,46 /domains/cisco/room/ciscoburgalley.c line 28: End of file in string
+2014.04.10-12.12,46 /domains/cisco/room/ciscoburgalley.c line 28: syntax error
+2014.04.10-12.13,28 /domains/cisco/room/ciscoburgalley.c line 28: End of file in string
+2014.04.10-12.13,28 /domains/cisco/room/ciscoburgalley.c line 28: syntax error
+2014.04.10-12.19,11 /domains/cisco/room/ciscoburgalley.c line 21: syntax error
+2014.04.10-12.19,11 /domains/cisco/room/ciscoburgalley.c line 21: syntax error
+2014.04.10-12.37,48 /domains/cisco/room/ciscoburgalley.c line 21: Undefined function HideExit
+2014.04.10-12.37,48 /domains/cisco/room/ciscoburgalley.c line 21: Undefined function HideExit
+2014.04.10-12.41,29 /domains/cisco/room/ciscoburgalley.c line 20: Undefined function SetObviousExit
+2014.04.10-12.41,29 /domains/cisco/room/ciscoburgalley.c line 20: Undefined function SetObviousExit
+2014.04.15-12.43,45 /domains/cisco/room/garden.c line 35: syntax error
+2014.04.15-12.43,45 /domains/cisco/room/garden.c line 48: Illegal LHS
+2014.04.15-12.43,45 /domains/cisco/room/garden.c line 35: syntax error
+2014.04.15-12.43,45 /domains/cisco/room/garden.c line 48: Illegal LHS
+2014.04.20-00.39,14 /domains/cisco/room/ciscoburgalley.c line 23: syntax error
+2014.04.20-00.39,14 /domains/cisco/room/ciscoburgalley.c line 23: syntax error
+2014.04.20-00.39,55 /domains/cisco/room/ciscoburgalley.c line 24: syntax error
+2014.04.20-00.42,03 /domains/cisco/room/ciscoburgalley.c line 26: syntax error
+2014.04.20-00.42,31 /domains/cisco/room/ciscoburgalley.c line 26: syntax error
+2014.04.20-01.15,47 /domains/cisco/room/secretpark.c line 26: syntax error
+2014.04.20-01.15,47 /domains/cisco/room/secretpark.c line 26: syntax error
+2014.04.22-12.32,07 /domains/cisco/npc/mouseking.c line 7: syntax error
+2014.04.22-12.32,07 /domains/cisco/npc/mouseking.c line 7: syntax error
+2014.04.22-12.32,58 /domains/cisco/npc/mouseking.c line 7: syntax error
+2014.04.22-12.33,25 /domains/cisco/npc/mouseking.c line 7: syntax error
+2014.04.22-19.40,17 /domains/cisco/room/secretpark.c line 31: syntax error
+2014.04.22-19.40,17 /domains/cisco/room/secretpark.c line 31: syntax error
+2014.04.22-19.41,35 /domains/cisco/room/secretpark.c line 31: syntax error
+2014.05.05-13.14,13 /domains/cisco/room/defaultroutebar.c line 20: Wrong number of arguments to SetObviousExits
+    Expected: 1  Got: 4
+2014.05.05-13.14,13 /domains/cisco/room/defaultroutebar.c line 20: Wrong number of arguments to SetObviousExits
+    Expected: 1  Got: 4
+2014.05.05-13.15,29 /domains/cisco/room/defaultroutebar.c line 20: Wrong number of arguments to SetObviousExits
+    Expected: 1  Got: 4
+2014.05.05-13.17,01 /domains/cisco/room/defaultroutebar.c line 19: Wrong number of arguments to SetObviousExits
+    Expected: 1  Got: 4
+2014.05.05-13.17,17 /domains/cisco/room/defaultroutebar.c line 16: Wrong number of arguments to SetObviousExits
+    Expected: 1  Got: 4
+2014.05.05-13.17,21 /domains/cisco/room/defaultroutebar.c line 16: Wrong number of arguments to SetObviousExits
+    Expected: 1  Got: 4
+2014.05.05-13.18,13 /domains/cisco/room/defaultroutebar.c line 16: Wrong number of arguments to SetObviousExits
+    Expected: 1  Got: 4
+2014.05.05-13.18,42 /domains/cisco/room/defaultroutebar.c line 16: Wrong number of arguments to SetObviousExits
+    Expected: 1  Got: 4
+2014.05.05-13.19,17 /domains/cisco/room/defaultroutebar.c line 15: Wrong number of arguments to SetObviousExits
+    Expected: 1  Got: 4
+2014.05.05-13.19,48 /domains/cisco/room/defaultroutebar.c line 13: Wrong number of arguments to SetObviousExits
+    Expected: 1  Got: 4
+2014.05.05-13.19,51 /domains/cisco/room/defaultroutebar.c line 13: Wrong number of arguments to SetObviousExits
+    Expected: 1  Got: 4
+2014.05.05-13.21,18 /domains/cisco/room/defaultroutebar.c line 9: Undefined function SetPropery
+2014.05.05-13.21,18 /domains/cisco/room/defaultroutebar.c line 9: Undefined function SetPropery
+2014.05.05-13.21,49 /domains/cisco/room/defaultroutebar.c line 9: Undefined function SetPropery

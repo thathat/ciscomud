@@ -1,0 +1,17 @@
+adventurer
+PLAYER_CLASS 1
+Blade Attack:1:1
+Melee Attack:1:1
+Blunt Attack:1:1
+Projectile Attack:1:1
+Blade Defense:1:1
+Melee Defense:1:1
+Blunt Defense:1:1
+Projectile Defense:1:1
+Magic Attack:1:1
+Magic Defense:1:1
+Stealth:1:1
+Detection:1:1
+Multi-hand:1:1
+Multi-weapon:1:1
+Healing:1:1

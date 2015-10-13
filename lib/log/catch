@@ -1,0 +1,95 @@
+NEW_LOG 2014.05.05-14.13,41
+
+--- CiscoMUD
+2014.05.06-13.28,16
+*Bad type argument to +. Had string and array
+Object: /domains/cisco/room/defaultroutebar (/lib/props/inventory.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /secure/cmds/creators/update at line 85
+'CATCH' at /secure/cmds/creators/update at line 85
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /domains/cisco/room/defaultroutebar at line 23
+'SetInventory' at /domains/cisco/room/defaultroutebar (/lib/props/inventory.c) at line 85
+
+--- CiscoMUD
+2014.05.06-13.28,22
+*Bad type argument to +. Had string and array
+Object: /domains/cisco/room/defaultroutebar (/lib/props/inventory.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'CATCH' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /domains/cisco/room/defaultroutebar at line 23
+'SetInventory' at /domains/cisco/room/defaultroutebar (/lib/props/inventory.c) at line 85
+
+--- CiscoMUD
+2014.05.06-13.29,13
+*Bad type argument to +. Had string and array
+Object: /domains/cisco/room/defaultroutebar (/lib/props/inventory.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'CATCH' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /domains/cisco/room/defaultroutebar at line 23
+'SetInventory' at /domains/cisco/room/defaultroutebar (/lib/props/inventory.c) at line 85
+
+--- CiscoMUD
+2014.05.06-13.29,50
+*Bad type argument to +. Had string and array
+Object: /domains/cisco/room/defaultroutebar (/lib/props/inventory.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /secure/cmds/creators/update at line 85
+'CATCH' at /secure/cmds/creators/update at line 85
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /domains/cisco/room/defaultroutebar at line 23
+'SetInventory' at /domains/cisco/room/defaultroutebar (/lib/props/inventory.c) at line 85
+
+--- CiscoMUD
+2014.05.06-13.29,51
+*Bad type argument to +. Had string and array
+Object: /domains/cisco/room/defaultroutebar (/lib/props/inventory.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'CATCH' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /domains/cisco/room/defaultroutebar at line 23
+'SetInventory' at /domains/cisco/room/defaultroutebar (/lib/props/inventory.c) at line 85

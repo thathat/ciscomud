@@ -1,0 +1,130 @@
+#/secure/save/creators/a/ahat.c
+InternalDesc 0
+Opacity 0
+PersistentInventory 0
+PersistentInventoryEnabled 0
+ProperNoun 1
+Modify 1
+Short "First Admin $N"
+CapName "A Hat"
+ExternalDesc "$N is nondescript."
+Invisible 0
+Items ([])
+Properties (["EdWarned":1,"wizmapping":1,"minimapping":0,"LastLocation":"/domains/cisco/room/marketnorth","pwb_room":"/realms/ahat/workroom",])
+Inventory ({"([\"Wielded\":1,\"Value\":0,\"Class\":100,\"Worn\":({\"right hand\",\"left hand\",}),\"Deterioration\":0,\"Broken\":0,\"Poison\":0,\"Mass\":100,\"#base_name#\":\"/secure/obj/staff\",\"Cost\":0,\"Properties\":([\"no steal\":1,]),])",})
+anchored 0
+Messages (["telin":"$N teleports in.","telout":"$N teleports away.","leave":"$N leaves $D.","vis":"$N appears.","invis":"$N disappears.","home":"$N goes home.","dest":"$N dests $O.","come":"$N enters.","clone":"$N clones $O.",])
+RestrictedChannels ({})
+NoChanColors 0
+GagMutes (["remote_gag":0,"remote_mute":0,"local_mute":0,"local_gag":0,])
+Paused 0
+localcmds ({"parserefresh","quit","work","pwd","cwd","popd","pushd","nmsh","cd","nickname","unalias","alias","",})
+parsed_command "quit"
+HistorySize 50
+History ([47:"quit",46:"go south",45:"s",44:"go north",43:"n",42:"look donut box",41:"l donut box",40:"look podium",39:"l podium",38:"look lights",37:"l lights",36:"look rack",35:"l rack",34:"look books",33:"l books",32:"look cups",31:"l cups",30:"look switches",29:"l switches",28:"look tables",27:"l tables",26:"look window",25:"l window",24:"look offices",23:"l offices",22:"look office",21:"l office",20:"open door",19:"look clouds",18:"l clouds",17:"look rivulet",16:"l rivulet",15:"look minnows",14:"l minnows",13:"look pond",12:"l pond",11:"look canyon",10:"l canyon",9:"look fuckstick",8:"l fuckstick",7:"look door",6:"l door",5:"go northeast",4:"ne",3:"swing on swing",2:"sit on swing",1:"swing",0:"look frogs",])
+Nicknames ([])
+Aliases (["east":"go east","mwhere":"findobj $*","southeast":"go southeast","northeast":"go northeast","prac":"skills","sco":"score","x":"look at $*","w":"go west","u":"go up","t":"tell $*","out":"go out","practice":"skills","s":"go south","vnum":"help find","p":"people","south":"go south","north":"go north","n":"go north","bio":"biography","l":"look $*","k":"kill $*","west":"go west","zlist":"domains","southwest":"go southwest","northwest":"go northwest","i":"inventory","owhere":"findobj $*","e":"go east","d":"go down","c":"cre $*","alist":"ls /domains","inv":"inventory","nw":"go northwest","examine":"look at $*","trophy":"kills","up":"go up","chat":"newbie $*","dc":"dchat $*","exa":"look at $*","sw":"go southwest","ig":"intergossip $*","loot":"get all from $*","ic":"intercre $*","peace":"quell","inf":"score","lp":"lpuni $*","down":"go down","ne":"go northeast","exit":"go out","eq":"equipment","se":"go southeast","sc":"status",])
+Xverbs (["'":"say $*","]":"] $*","\"":"say $*",":":"emote $*",])
+Directories (["current":"/domains/default/weap","home":0,"previous":"/domains/default",])
+Prompt "cwd"
+Terminal "ansi"
+Blocked (["ds":0,"intergossip":0,"ds_test":0,"dchat":1,"gossip":0,"lpuni":0,"intercre":0,"intermud":0,])
+Screen ({136,34,})
+MessageQueue 0
+PauseMessages 0
+annoyblock 0
+MessageExceptions 0
+BlockAnnoying 0
+Age 9594
+WhereBlock 0
+Brief 0
+LoginTime 1425084466
+BirthTime 1396544191
+RescueBit 0
+Password "coobekam!fa`goocdo`oliie`ddiknjmflmcbgdce"
+Email "reysparby@gmail.com"
+RealName "Reyna"
+Rank "citizen"
+LoginSite "/domains/cisco/room/marketsouth"
+HostSite "127.0.0.1"
+WebPage 0
+News (["admin":1248030406,"general":1233549750,"creator":1233549750,])
+Marriages ({})
+Paranoia (["homeroom":"/tmp/workroom",])
+MaxCarry 0
+PreventDrop 0
+DestructOnDrop 0
+PreventGet 0
+Position 2
+Undead 0
+UndeadType 0
+Mount 0
+Riders ({})
+BodyMass 0
+SaveRecurse 0
+Saved ({"Properties",})
+HealthPoints 420
+MagicPoints 580
+ExperiencePoints 7040
+ExperienceDebt 0
+melee 0
+godmode 0
+Alcohol 0
+Caffeine 0
+Food 0
+Drink 0
+Poison 0
+Sleeping 0
+DeathEvents 0
+StaminaPoints 438.000000
+Torso "torso"
+Biter 0
+keepalive 0
+Fingers (["right hand":5,"left hand":5,])
+Limbs (["right foot":(["children":({}),"armors":241,"health":100,"class":4,"parent":"right leg",]),"right leg":(["children":({"right foot",}),"armors":1049761,"health":190,"class":2,"parent":"torso",]),"head":(["children":({}),"armors":262913,"health":380,"class":1,"parent":"neck",]),"neck":(["children":({"head",}),"armors":786433,"health":380,"class":1,"parent":"torso",]),"left arm":(["children":({"left hand",}),"armors":1253385,"health":190,"class":2,"parent":"torso",]),"left foot":(["children":({}),"armors":241,"health":100,"class":4,"parent":"left leg",]),"left leg":(["children":({"left foot",}),"armors":1049761,"health":190,"class":2,"parent":"torso",]),"torso":(["children":({"neck","right leg","left leg","right arm","left arm",}),"armors":1538049,"health":380,"class":1,"parent":0,]),"right hand":(["children":({}),"armors":98319,"health":100,"class":4,"parent":"right arm",]),"left hand":(["children":({}),"armors":98319,"health":100,"class":4,"parent":"left arm",]),"right arm":(["children":({"right hand",}),"armors":1253385,"health":190,"class":2,"parent":"torso",]),])
+MissingLimbs ([])
+firearms_wounds 0
+ExtraChannels ({"explorer","builder","admin","error","cre","newbie","gossip","ds","ds_test","lpuni","death","connections","intercre","dchat","intermud","fighter","imud_gossip",})
+Agent 0
+Blind 0
+Custom (["stats":15,"deviations":4,"deviating":0,])
+LightSensitivity ({25,7500,})
+Resistance (["low":0,"high":0,"immune":0,"medium":0,"none":134217726,])
+Stats (["wisdom":(["class":3,"points":0,"level":58,]),"agility":(["class":3,"points":0,"level":43,]),"speed":(["class":3,"points":0,"level":46,]),"strength":(["class":3,"points":0,"level":28,]),"intelligence":(["class":1,"points":0,"level":53,]),"durability":(["class":4,"points":0,"level":37,]),"charisma":(["class":2,"points":0,"level":42,]),"coordination":(["class":2,"points":0,"level":33,]),"luck":(["class":3,"points":0,"level":32,]),])
+Polyglot 0
+Languages (["english":(["native":1,"name":"English","points":0,"level":100,]),"common":(["native":0,"name":"Common","points":0,"level":100,]),])
+DefaultLanguage "Common"
+TalkHist (["exclaim":({"2014.04.22-12.49,37 Mouse king exclaims in English, \"%^BOLD%^CYAN%^You have solved the Missing Cabbage Quest. Congratulations!%^RESET%^\"","2014.04.22-12.49,37 Mouse king exclaims in English, \"%^BOLD%^CYAN%^I hereby award you 10 quest points, and 2000 experience points!%^RESET%^\"","2014.04.22-13.29,30 Mouse king exclaims in English, \"%^BOLD%^CYAN%^You have solved the Missing Cabbage Quest. Congratulations!%^RESET%^\"","2014.04.22-13.29,30 Mouse king exclaims in English, \"%^BOLD%^CYAN%^I hereby award you 10 quest points, and 2000 experience points!%^RESET%^\"","2014.04.22-18.02,35 Mouse king exclaims in English, \"%^BOLD%^CYAN%^You have solved the Missing Cabbage Quest. Congratulations!%^RESET%^\"","2014.04.22-18.02,35 Mouse king exclaims in English, \"%^BOLD%^CYAN%^I hereby award you 10 quest points, and 2000 experience points!%^RESET%^\"","2014.04.22-18.03,15 Mouse king exclaims in English, \"%^BOLD%^CYAN%^You have solved the Missing Cabbage Quest. Congratulations!%^RESET%^\"","2014.04.22-18.03,15 Mouse king exclaims in English, \"%^BOLD%^CYAN%^I hereby award you 10 quest points, and 2000 experience points!%^RESET%^\"",}),"say":({"2014.04.04-04.55,26 TestHat says in English, \"%^BOLD%^CYAN%^Leo.%^RESET%^\"","2014.04.04-04.55,31 TestHat says in English, \"%^BOLD%^CYAN%^Leo what about orcs.%^RESET%^\"","2014.04.14-12.10,47 You exclaim in Common, \"%^BOLD%^CYAN%^Hi!%^RESET%^\"","2014.04.14-12.10,55 You exclaim in Common, \"%^BOLD%^CYAN%^Kill it!%^RESET%^\"",}),])
+SpeakColor "CYAN%^"
+Town "World"
+Race "human"
+Gender "female"
+Level 1
+Skills (["magic defense":(["class":2,"points":0,"level":3,]),"psionic defense":(["class":3,"points":0,"level":2,]),"melee defense":(["class":2,"points":2545,"level":3,]),"projectile attack":(["class":1,"points":0,"level":1,]),"blunt defense":(["class":1,"points":0,"level":2,]),"knife defense":(["class":1,"points":0,"level":2,]),"melee attack":(["class":2,"points":0,"level":1,]),"projectile defense":(["class":2,"points":0,"level":1,]),"blade defense":(["class":2,"points":0,"level":1,]),"bargaining":(["class":2,"points":0,"level":4,]),"magic attack":(["class":2,"points":0,"level":3,]),"blunt attack":(["class":1,"points":4504,"level":4,]),"knife attack":(["class":1,"points":0,"level":3,]),"blade attack":(["class":2,"points":0,"level":1,]),])
+Morality 0
+Class "explorer"
+Clan 0
+SkillModifiers ([])
+Religion ({0,0,})
+Wimpy 20
+Dead 0
+WimpyCommand "go out"
+Currency (["silver":148,])
+Bank ([])
+SpellBook ([])
+QuestPoints 30
+QuestBook (["the Cabbage Finder":(["Date":1398209010,"Description":"The Missing Cabbage",]),"The Missing Cabbage":(["Date":1398191370,"Description":"Missing Cabbage Quest",]),])
+isPK 0
+Attackable 1
+NoCondition 0
+Titles ({"the Cabbage Finder","The Missing Cabbage",})
+Muffed ({})
+Deaths 0
+TrainingPoints 0
+TitleLength 1
+telopt_ip 0
+showgrid 0
+wizvision 0
+CreatorAge 0
+CreatorBirth 1396544252
+LivingShort 0

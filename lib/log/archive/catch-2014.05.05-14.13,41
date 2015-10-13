@@ -1,0 +1,1258 @@
+NEW_LOG 2014.04.10-12.33,14
+
+--- CiscoMUD
+2014.04.10-12.33,24
+*call_other() couldn't find object
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.04.10-12.33,38
+*call_other() couldn't find object
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.04.10-12.33,40
+*call_other() couldn't find object
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.04.10-12.34,04
+*call_other() couldn't find object
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.04.10-12.37,48
+*Error in loading object '/domains/cisco/room/ciscoburgalley'
+Object: /secure/cmds/creators/update at line 170
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'CATCH' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+
+--- CiscoMUD
+2014.04.10-12.37,48
+*Error in loading object '/domains/cisco/room/ciscoburgalley'
+Object: /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:75
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+'CATCH' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+--- CiscoMUD
+2014.04.10-12.41,29
+*Error in loading object '/domains/cisco/room/ciscoburgalley'
+Object: /secure/cmds/creators/update at line 170
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'CATCH' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+
+--- CiscoMUD
+2014.04.10-12.41,29
+*Error in loading object '/domains/cisco/room/ciscoburgalley'
+Object: /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:75
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+'CATCH' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+--- CiscoMUD
+2014.04.13-22.56,19
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /realms/ahat/tmp/fuckstickgmfdeofn1397447779 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 632
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:34
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'create' at /realms/ahat/tmp/fuckstickgmfdeofn1397447779 at line 14
+'SetRace' at /realms/ahat/tmp/fuckstickgmfdeofn1397447779 (/lib/npc.c) at line 418
+'SetRace' at /realms/ahat/tmp/fuckstickgmfdeofn1397447779 (/lib/race.c) at line 200
+'NewBody' at /realms/ahat/tmp/fuckstickgmfdeofn1397447779 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-22.56,19
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /realms/ahat/tmp/fuckstickgmfdeofn1397447779 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 632
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /realms/ahat/tmp/fuckstickgmfdeofn1397447779 at line 14
+'SetRace' at /realms/ahat/tmp/fuckstickgmfdeofn1397447779 (/lib/npc.c) at line 418
+'SetRace' at /realms/ahat/tmp/fuckstickgmfdeofn1397447779 (/lib/race.c) at line 200
+'NewBody' at /realms/ahat/tmp/fuckstickgmfdeofn1397447779 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-22.56,19
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/fuckstick (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 641
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /domains/cisco/npc/fuckstick at line 14
+'SetRace' at /domains/cisco/npc/fuckstick (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/fuckstick (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/fuckstick (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-22.56,19
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/fuckstick#158 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 641
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+'clone_object' at /secure/sefun/sefun at line 120
+'create' at /domains/cisco/npc/fuckstick#158 at line 14
+'SetRace' at /domains/cisco/npc/fuckstick#158 (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/fuckstick#158 (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/fuckstick#158 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-22.56,41
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/fuckstick (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /domains/cisco/npc/fuckstick at line 14
+'SetRace' at /domains/cisco/npc/fuckstick (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/fuckstick (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/fuckstick (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-22.56,41
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/fuckstick#159 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+'clone_object' at /secure/sefun/sefun at line 120
+'create' at /domains/cisco/npc/fuckstick#159 at line 14
+'SetRace' at /domains/cisco/npc/fuckstick#159 (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/fuckstick#159 (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/fuckstick#159 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-23.00,28
+*Read access denied.
+Object: /secure/sefun/sefun at line 120
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+
+--- CiscoMUD
+2014.04.13-23.32,46
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /realms/ahat/tmp/fuckstickbjaefkcc1397449966 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 632
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:34
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'create' at /realms/ahat/tmp/fuckstickbjaefkcc1397449966 at line 23
+'SetRace' at /realms/ahat/tmp/fuckstickbjaefkcc1397449966 (/lib/npc.c) at line 418
+'SetRace' at /realms/ahat/tmp/fuckstickbjaefkcc1397449966 (/lib/race.c) at line 200
+'NewBody' at /realms/ahat/tmp/fuckstickbjaefkcc1397449966 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-23.32,46
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /realms/ahat/tmp/fuckstickbjaefkcc1397449966 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 632
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /realms/ahat/tmp/fuckstickbjaefkcc1397449966 at line 23
+'SetRace' at /realms/ahat/tmp/fuckstickbjaefkcc1397449966 (/lib/npc.c) at line 418
+'SetRace' at /realms/ahat/tmp/fuckstickbjaefkcc1397449966 (/lib/race.c) at line 200
+'NewBody' at /realms/ahat/tmp/fuckstickbjaefkcc1397449966 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-23.32,46
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/fuckstick (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 641
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /domains/cisco/npc/fuckstick at line 23
+'SetRace' at /domains/cisco/npc/fuckstick (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/fuckstick (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/fuckstick (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-23.32,46
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/fuckstick#192 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 641
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+'clone_object' at /secure/sefun/sefun at line 120
+'create' at /domains/cisco/npc/fuckstick#192 at line 23
+'SetRace' at /domains/cisco/npc/fuckstick#192 (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/fuckstick#192 (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/fuckstick#192 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-23.34,09
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /realms/ahat/tmp/fuckstickljnkjloc1397450049 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 632
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:34
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'create' at /realms/ahat/tmp/fuckstickljnkjloc1397450049 at line 23
+'SetRace' at /realms/ahat/tmp/fuckstickljnkjloc1397450049 (/lib/npc.c) at line 418
+'SetRace' at /realms/ahat/tmp/fuckstickljnkjloc1397450049 (/lib/race.c) at line 200
+'NewBody' at /realms/ahat/tmp/fuckstickljnkjloc1397450049 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-23.34,09
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /realms/ahat/tmp/fuckstickljnkjloc1397450049 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 632
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /realms/ahat/tmp/fuckstickljnkjloc1397450049 at line 23
+'SetRace' at /realms/ahat/tmp/fuckstickljnkjloc1397450049 (/lib/npc.c) at line 418
+'SetRace' at /realms/ahat/tmp/fuckstickljnkjloc1397450049 (/lib/race.c) at line 200
+'NewBody' at /realms/ahat/tmp/fuckstickljnkjloc1397450049 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-23.34,09
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/fuckstick (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 641
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /domains/cisco/npc/fuckstick at line 23
+'SetRace' at /domains/cisco/npc/fuckstick (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/fuckstick (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/fuckstick (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.13-23.34,09
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/fuckstick#194 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_modify_obj_str' at /verbs/builders/modify at line 83
+'eventModify' at /secure/obj/staff#115 (/secure/modules/create.c) at line 641
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+'clone_object' at /secure/sefun/sefun at line 120
+'create' at /domains/cisco/npc/fuckstick#194 at line 23
+'SetRace' at /domains/cisco/npc/fuckstick#194 (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/fuckstick#194 (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/fuckstick#194 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.15-12.43,45
+*Error in loading object '/domains/cisco/room/garden'
+Object: /secure/cmds/creators/update at line 170
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /secure/cmds/creators/update at line 85
+'CATCH' at /secure/cmds/creators/update at line 85
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+
+--- CiscoMUD
+2014.04.15-12.43,45
+*Error in loading object '/domains/cisco/room/garden'
+Object: /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /secure/cmds/creators/update at line 92
+'ReturnAndRelease' at /secure/cmds/creators/update at line 37
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+'CATCH' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+--- CiscoMUD
+2014.04.20-00.39,14
+*Error in loading object '/domains/cisco/room/ciscoburgalley'
+Object: /secure/cmds/creators/update at line 170
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'CATCH' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+
+--- CiscoMUD
+2014.04.20-00.39,14
+*Error in loading object '/domains/cisco/room/ciscoburgalley'
+Object: /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:75
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+'CATCH' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+--- CiscoMUD
+2014.04.20-00.39,55
+*Error in loading object '/domains/cisco/room/ciscoburgalley'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburghousesnorth (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.04.20-00.42,03
+*Error in loading object '/domains/cisco/room/ciscoburgalley'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburghousesnorth (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.04.20-00.42,31
+*Error in loading object '/domains/cisco/room/ciscoburgalley'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburghousesnorth (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.04.20-01.15,47
+*Error in loading object '/domains/cisco/room/secretpark'
+Object: /secure/cmds/creators/update at line 170
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /secure/cmds/creators/update at line 85
+'CATCH' at /secure/cmds/creators/update at line 85
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+
+--- CiscoMUD
+2014.04.20-01.15,47
+*Error in loading object '/domains/cisco/room/secretpark'
+Object: /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /secure/cmds/creators/update at line 92
+'ReturnAndRelease' at /secure/cmds/creators/update at line 37
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+'CATCH' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+--- CiscoMUD
+2014.04.20-01.28,49
+*Read access denied.
+Object: /secure/sefun/sefun at line 120
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+
+--- CiscoMUD
+2014.04.20-01.28,58
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/mouseking (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+'create' at /domains/cisco/npc/mouseking at line 17
+'SetRace' at /domains/cisco/npc/mouseking (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/mouseking (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/mouseking (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.20-01.29,17
+*Read access denied.
+Object: /secure/sefun/sefun at line 120
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+
+--- CiscoMUD
+2014.04.20-01.29,27
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/mouseking#774 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+'create' at /domains/cisco/npc/mouseking#774 at line 17
+'SetRace' at /domains/cisco/npc/mouseking#774 (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/mouseking#774 (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/mouseking#774 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.20-01.29,59
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/mouseking#775 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+'create' at /domains/cisco/npc/mouseking#775 at line 17
+'SetRace' at /domains/cisco/npc/mouseking#775 (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/mouseking#775 (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/mouseking#775 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.20-01.31,03
+*Read access denied.
+Object: /secure/sefun/sefun at line 120
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+
+--- CiscoMUD
+2014.04.20-01.31,20
+*Bad argument 2 to foreach
+Expected: array Got: 0.
+Object: /domains/cisco/npc/mouseking#776 (/lib/race.c) at line 275
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+'create' at /domains/cisco/npc/mouseking#776 at line 17
+'SetRace' at /domains/cisco/npc/mouseking#776 (/lib/npc.c) at line 418
+'SetRace' at /domains/cisco/npc/mouseking#776 (/lib/race.c) at line 200
+'NewBody' at /domains/cisco/npc/mouseking#776 (/lib/race.c) at line 275
+
+--- CiscoMUD
+2014.04.22-12.32,07
+*Error in loading object '/domains/cisco/npc/mouseking'
+Object: /secure/cmds/creators/update at line 170
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+
+--- CiscoMUD
+2014.04.22-12.32,07
+*Error in loading object '/domains/cisco/npc/mouseking'
+Object: /secure/sefun/sefun at /secure/sefun/reload.c:95
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+
+--- CiscoMUD
+2014.04.22-12.32,23
+*Read access denied.
+Object: /secure/sefun/sefun at line 120
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+
+--- CiscoMUD
+2014.04.22-12.32,58
+*Error in loading object '/domains/cisco/npc/mouseking'
+Object: /secure/sefun/sefun at line 120
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+
+--- CiscoMUD
+2014.04.22-12.33,25
+*Error in loading object '/domains/cisco/npc/mouseking'
+Object: /secure/sefun/sefun at line 120
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+
+--- CiscoMUD
+2014.04.22-12.47,13
+*Bad argument 1 to SetKeyName().
+Object: /domains/cisco/npc/mouseking (/lib/props/id.c) at line 143
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:87
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+'create' at /domains/cisco/npc/mouseking at line 9
+'SetKeyName' at /domains/cisco/npc/mouseking (/lib/npc.c) at line 547
+'SetKeyName' at /domains/cisco/npc/mouseking (/lib/props/id.c) at line 143
+
+--- CiscoMUD
+2014.04.22-12.47,13
+*Bad argument 1 to SetKeyName().
+Object: /domains/cisco/npc/mouseking#134 (/lib/props/id.c) at line 143
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:95
+'create' at /domains/cisco/npc/mouseking#134 at line 9
+'SetKeyName' at /domains/cisco/npc/mouseking#134 (/lib/npc.c) at line 547
+'SetKeyName' at /domains/cisco/npc/mouseking#134 (/lib/props/id.c) at line 143
+
+--- CiscoMUD
+2014.04.22-12.54,03
+*Read access denied.
+Object: /secure/sefun/sefun at line 120
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+
+--- CiscoMUD
+2014.04.22-13.24,22
+*Read access denied.
+Object: /secure/sefun/sefun at line 120
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /cmds/creators/clone at line 26
+'CATCH' at /cmds/creators/clone at line 26
+'clone_object' at /secure/sefun/sefun at line 120
+
+--- CiscoMUD
+2014.04.22-19.40,17
+*Error in loading object '/domains/cisco/room/secretpark'
+Object: /secure/cmds/creators/update at line 170
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'CATCH' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+
+--- CiscoMUD
+2014.04.22-19.40,17
+*Error in loading object '/domains/cisco/room/secretpark'
+Object: /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:75
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+'CATCH' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+--- CiscoMUD
+2014.04.22-19.41,35
+*Error in loading object '/domains/cisco/room/secretpark'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_enter_obj' at /verbs/rooms/enter at line 39
+'eventEnter' at /lib/std/dummy#433 (/lib/enter.c) at line 115
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.11,19
+*call_other() couldn't find object
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 748
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 120
+'init' at /domains/cisco/room/defaultroutebar at line 26
+'init' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1327
+'GenerateObviousExits' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'<fake>' at /domains/cisco/room/defaultroutebar (/<driver>) at line 0
+'(: <code>($1) :)' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.11,30
+*call_other() couldn't find object
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:75
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 120
+'init' at /domains/cisco/room/defaultroutebar at line 26
+'init' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1327
+'GenerateObviousExits' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'<fake>' at /domains/cisco/room/defaultroutebar (/<driver>) at line 0
+'(: <code>($1) :)' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.11,38
+*call_other() couldn't find object
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /secure/cmds/creators/update at line 92
+'ReturnAndRelease' at /secure/cmds/creators/update at line 37
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 120
+'init' at /domains/cisco/room/defaultroutebar at line 26
+'init' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1327
+'GenerateObviousExits' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'<fake>' at /domains/cisco/room/defaultroutebar (/<driver>) at line 0
+'(: <code>($1) :)' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.12,11
+*call_other() couldn't find object
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /secure/cmds/creators/update at line 92
+'ReturnAndRelease' at /secure/cmds/creators/update at line 37
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 120
+'init' at /domains/cisco/room/defaultroutebar at line 26
+'init' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1327
+'GenerateObviousExits' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'<fake>' at /domains/cisco/room/defaultroutebar (/<driver>) at line 0
+'(: <code>($1) :)' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.12,12
+*call_other() couldn't find object
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:75
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 120
+'init' at /domains/cisco/room/defaultroutebar at line 26
+'init' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1327
+'GenerateObviousExits' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'<fake>' at /domains/cisco/room/defaultroutebar (/<driver>) at line 0
+'(: <code>($1) :)' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.12,56
+*call_other() couldn't find object
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 748
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 120
+'init' at /domains/cisco/room/defaultroutebar at line 26
+'init' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1327
+'GenerateObviousExits' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'<fake>' at /domains/cisco/room/defaultroutebar (/<driver>) at line 0
+'(: <code>($1) :)' at /domains/cisco/room/defaultroutebar (/lib/std/room.c) at line 1103
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.14,13
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/cmds/creators/update at line 170
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'CATCH' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+
+--- CiscoMUD
+2014.05.05-13.14,13
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:75
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+'CATCH' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+--- CiscoMUD
+2014.05.05-13.15,29
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.17,01
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.17,17
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.17,21
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.18,13
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.18,42
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.19,17
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.19,48
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.19,51
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.21,18
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/cmds/creators/update at line 170
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/sefun/sefun (/<driver>) at line 0
+'(: <code>() :)' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'CATCH' at /secure/sefun/sefun at /secure/sefun/reload.c:68
+'cmd' at /secure/cmds/creators/update at line 116
+'eventUpdate' at /secure/cmds/creators/update at line 170
+'CATCH' at /secure/cmds/creators/update at line 170
+
+--- CiscoMUD
+2014.05.05-13.21,18
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_reload_word' at /verbs/builders/reload at line 107
+'do_reload_obj' at /verbs/builders/reload at line 84
+'reload' at /secure/sefun/sefun at /secure/sefun/reload.c:75
+'eventMove' at /secure/save/creators/a/ahat (/lib/creator.c) at line 266
+'eventMove' at /secure/save/creators/a/ahat (/lib/player.c) at line 286
+'eventMove' at /secure/save/creators/a/ahat (/lib/interactive.c) at line 254
+'eventMove' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+'CATCH' at /secure/save/creators/a/ahat (/lib/props/move.c) at line 85
+
+--- CiscoMUD
+2014.05.05-13.21,49
+*Error in loading object '/domains/cisco/room/defaultroutebar'
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/ciscoburgalley (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.24,53
+*call_other() couldn't find object
+Object: /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 210
+'do_go_str' at /verbs/rooms/go at line 45
+'eventGo' at /domains/cisco/room/defaultroutebar (/lib/exits.c) at line 107
+'eventMoveLiving' at /secure/save/creators/a/ahat (/lib/living.c) at line 725
+'CheckMove' at /daemon/guard at line 95
+'CATCH' at /daemon/guard at line 95
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+
+--- CiscoMUD
+2014.05.05-13.28,15
+*/realms/ahat/area/obj/chest: Too many callouts!
+Object: /secure/sefun/sefun at line 250
+
+'<fake>' at /secure/save/creators/a/ahat (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/a/ahat (/lib/command.c) at line 231
+'cmd' at /secure/cmds/builders/home at line 55
+'unguarded' at /secure/sefun/sefun at /secure/sefun/security.c:104
+'apply_unguarded' at /secure/daemon/master at line 606
+'CATCH' at /secure/daemon/master at line 606
+'<fake>' at /secure/cmds/builders/home (/<driver>) at line 0
+'(: <code>($1), 0 :)' at /secure/cmds/builders/home at line 55
+'GoHome' at /secure/cmds/builders/home at line 34
+'CATCH' at /secure/cmds/builders/home at line 34
+'load_object' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'CATCH' at /secure/sefun/sefun at /secure/sefun/load_object.c:35
+'create' at /realms/ahat/workroom at line 39
+'SetInventory' at /realms/ahat/workroom (/lib/props/inventory.c) at line 101
+'eventLoadInventory' at /realms/ahat/workroom (/lib/props/inventory.c) at line 58
+'eventLoadItem' at /realms/ahat/workroom (/lib/props/inventory.c) at line 27
+'create' at <none> (/realms/ahat/area/obj/chest.c) at line 6
+'create' at <none> (/lib/std/storage.c) at line 12
+'create' at <none> (/lib/std/base_storage.c) at line 211
+'create' at <none> (/lib/comp/holder.c) at line 108
+'call_out' at /secure/sefun/sefun at line 250
+
+END-OF-LOG

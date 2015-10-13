@@ -1,0 +1,36 @@
+-----
+2014.04.04-11.32,53: TestHat
+*built-in sort_array() can only handle homogeneous arrays of strings/ints/floats/arrays
+Object: /cmds/players/stats at line 45
+
+#0: '<fake>' at /secure/save/players/t/testhat (/<driver>) at line 0
+#1: 'cmdAll' at /secure/save/players/t/testhat (/lib/command.c) at line 231
+#2: 'cmd' at /cmds/players/stats at line 45
+
+object:OBJECT (/cmds/players/stats), error:*built-in sort_array() can only handle homogeneous arrays of strings/ints/floats/arrays
+, trace:ARRAY (), program:/cmds/players/stats.c, file:/cmds/players/stats.c, line:45
+-----
+-----
+2014.04.04-11.32,55: TestHat
+*built-in sort_array() can only handle homogeneous arrays of strings/ints/floats/arrays
+Object: /cmds/players/stats at line 45
+
+#0: '<fake>' at /secure/save/players/t/testhat (/<driver>) at line 0
+#1: 'cmdAll' at /secure/save/players/t/testhat (/lib/command.c) at line 231
+#2: 'cmd' at /cmds/players/stats at line 45
+
+object:OBJECT (/cmds/players/stats), error:*built-in sort_array() can only handle homogeneous arrays of strings/ints/floats/arrays
+, trace:ARRAY (), program:/cmds/players/stats.c, file:/cmds/players/stats.c, line:45
+-----
+-----
+2014.04.04-11.33,17: TestHat
+*built-in sort_array() can only handle homogeneous arrays of strings/ints/floats/arrays
+Object: /cmds/players/stats at line 45
+
+#0: '<fake>' at /secure/save/players/t/testhat (/<driver>) at line 0
+#1: 'cmdAll' at /secure/save/players/t/testhat (/lib/command.c) at line 231
+#2: 'cmd' at /cmds/players/stats at line 45
+
+object:OBJECT (/cmds/players/stats), error:*built-in sort_array() can only handle homogeneous arrays of strings/ints/floats/arrays
+, trace:ARRAY (), program:/cmds/players/stats.c, file:/cmds/players/stats.c, line:45
+-----

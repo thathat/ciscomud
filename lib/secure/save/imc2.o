@@ -1,0 +1,16 @@
+#/secure/daemon/imc2.c
+PersistentInventory 0
+PersistentInventoryEnabled 0
+tmpstr 0
+host "173.20.9.134"
+who_str "CiscoMUD*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=**=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*                   There are zero members of our reality.                  http://dead-souls.nettelnet://173.20.9.134:2222___________________________________________________________________________"
+mode 2
+autodisabled 0
+ping_requests ([])
+buf ""
+server_version 0
+localchaninfo ([])
+mudinfo ([])
+genders ([])
+tells ([])
+sequence 1398572566

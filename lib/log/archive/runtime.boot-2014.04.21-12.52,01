@@ -1,0 +1,1611 @@
+NEW_LOG 2014.04.19-16.59,04
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sat Apr 19 16:58:04 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (37ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.39 seconds. (Performance score: Spectacular.)
+
+System Error: new_user_handler: setsockopt SO_NOSIGPIPE:Invalid argument
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/reload: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+coMUD
+2014.04.20-01.32,04
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-01.32,04
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-01.32,04
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 02:01:56 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (41ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.43 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-02.02,47
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-02.02,47
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-02.02,47
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 03:02:42 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (45ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.40 seconds. (Performance score: Spectacular.)
+
+System Error: socket_connect: connect:Network is unreachable
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-03.03,33
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-03.03,33
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-03.03,33
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 04:03:28 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (39ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.40 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/imc2: eval_cost too big 5000000
+object /lib/sentient: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/reaper: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+scoMUD
+2014.04.20-04.04,17
+*Too long evaluation. Execution aborted.
+Object: /lib/sentient at line 439
+
+'heart_beat' at /lib/sentient at line 439
+
+--- CiscoMUD
+2014.04.20-04.04,17
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/remotepost at line 41
+
+'heart_beat' at /secure/daemon/remotepost at line 41
+
+--- CiscoMUD
+2014.04.20-04.04,17
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/reaper at line 63
+
+'heart_beat' at /secure/daemon/reaper at line 63
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 05:04:12 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (40ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.41 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-05.05,03
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-05.05,03
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-05.05,03
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 06:04:57 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (43ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.40 seconds. (Performance score: Spectacular.)
+
+object /lib/sentient: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/reaper: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+-06.05,46
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/reaper at line 63
+
+'heart_beat' at /secure/daemon/reaper at line 63
+
+--- CiscoMUD
+2014.04.20-06.05,46
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-06.05,46
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 07:05:42 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (44ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /lib/sentient: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/reaper: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+4.20-07.08,21
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/remotepost at line 41
+
+'heart_beat' at /secure/daemon/remotepost at line 41
+
+--- CiscoMUD
+2014.04.20-07.08,21
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/reaper at line 63
+
+'heart_beat' at /secure/daemon/reaper at line 63
+
+--- CiscoMUD
+2014.04.20-07.08,21
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 08:08:15 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (40ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.38 seconds. (Performance score: Spectacular.)
+
+System Error: socket_connect: connect:Network is unreachable
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-08.09,06
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-08.09,06
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-08.09,06
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 09:09:02 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (37ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.38 seconds. (Performance score: Excellent.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/imc2: eval_cost too big 5000000
+object /lib/sentient: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/reaper: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+scoMUD
+2014.04.20-09.09,51
+*Too long evaluation. Execution aborted.
+Object: /lib/sentient at line 439
+
+'heart_beat' at /lib/sentient at line 439
+
+--- CiscoMUD
+2014.04.20-09.09,51
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/remotepost at line 41
+
+'heart_beat' at /secure/daemon/remotepost at line 41
+
+--- CiscoMUD
+2014.04.20-09.09,51
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/reaper at line 63
+
+'heart_beat' at /secure/daemon/reaper at line 63
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 10:09:46 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (40ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-10.10,37
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-10.10,37
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-10.10,37
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 11:10:31 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (40ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-11.11,23
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-11.11,23
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-11.11,23
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 12:11:18 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (52ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.40 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-12.12,08
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-12.12,08
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-12.12,08
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 13:12:03 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (40ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+object /lib/sentient: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/reaper: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+-13.12,52
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/reaper at line 63
+
+'heart_beat' at /secure/daemon/reaper at line 63
+
+--- CiscoMUD
+2014.04.20-13.12,52
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-13.12,52
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 14:12:48 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (38ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+System Error: socket_connect: connect:Network is unreachable
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-14.13,39
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-14.13,39
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-14.13,39
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 15:13:35 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (47ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.40 seconds. (Performance score: Spectacular.)
+
+object /lib/sentient: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/reaper: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+-15.14,24
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/reaper at line 63
+
+'heart_beat' at /secure/daemon/reaper at line 63
+
+--- CiscoMUD
+2014.04.20-15.14,24
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-15.14,24
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 16:14:19 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (40ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+System Error: socket_connect: connect:Network is unreachable
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-16.15,10
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-16.15,10
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-16.15,10
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 17:15:05 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (43ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.43 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-17.15,55
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-17.15,55
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-17.15,55
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 18:15:49 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (39ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+System Error: socket_connect: connect:Network is unreachable
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-18.16,40
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-18.16,40
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-18.16,40
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 19:16:35 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (40ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.39 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/imc2: eval_cost too big 5000000
+object /lib/sentient: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/reaper: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+scoMUD
+2014.04.20-19.17,24
+*Too long evaluation. Execution aborted.
+Object: /lib/sentient at line 439
+
+'heart_beat' at /lib/sentient at line 439
+
+--- CiscoMUD
+2014.04.20-19.17,24
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/remotepost at line 41
+
+'heart_beat' at /secure/daemon/remotepost at line 41
+
+--- CiscoMUD
+2014.04.20-19.17,24
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/reaper at line 63
+
+'heart_beat' at /secure/daemon/reaper at line 63
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 20:17:19 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (39ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.41 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-20.18,09
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-20.18,09
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-20.18,09
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 21:18:05 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (41ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-21.18,56
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-21.18,56
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-21.18,56
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 22:18:50 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (39ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.41 seconds. (Performance score: Spectacular.)
+
+System Error: socket_connect: connect:Network is unreachable
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.20-22.19,41
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.20-22.19,41
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.20-22.19,41
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Sun Apr 20 22:35:08 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (41ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.40 seconds. (Performance score: Spectacular.)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+System Error: new_user_handler: setsockopt SO_NOSIGPIPE:Invalid argument
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/reload: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+coMUD
+2014.04.21-00.16,31
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-00.16,31
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-00.16,31
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Mon Apr 21 01:16:25 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (51ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.44 seconds. (Performance score: Spectacular.)
+
+System Error: socket_connect: connect:Network is unreachable
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.21-01.17,16
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-01.17,16
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-01.17,16
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Mon Apr 21 01:37:55 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (40ms)
+
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.39 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.21-01.38,45
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-01.38,45
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-01.38,45
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Mon Apr 21 02:38:40 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (40ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.21-02.39,30
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-02.39,30
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-02.39,30
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Mon Apr 21 03:39:25 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (63ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.45 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.21-03.40,15
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-03.40,15
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-03.40,15
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Mon Apr 21 04:40:10 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (40ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.21-04.41,00
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-04.41,00
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-04.41,00
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Mon Apr 21 05:40:55 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (37ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/reload: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+coMUD
+2014.04.21-05.43,32
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-05.43,32
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-05.43,32
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Mon Apr 21 06:43:27 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (41ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.42 seconds. (Performance score: Spectacular.)
+
+System Error: socket_connect: connect:Network is unreachable
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.21-06.44,18
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-06.44,18
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-06.44,18
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Mon Apr 21 07:44:14 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (39ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.38 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.21-07.45,04
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-07.45,04
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-07.45,04
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Mon Apr 21 08:44:58 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (36ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.41 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.21-08.45,49
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-08.45,49
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-08.45,49
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Mon Apr 21 09:00:32 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (38ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.41 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/file: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+iscoMUD
+2014.04.21-09.01,03
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-09.01,03
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-09.01,03
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+----------------------------------------------------------------------------
+CiscoMUD (FluffOS v2.23-ds02) starting up on Mac OS X - Mon Apr 21 09:35:41 2014
+
+
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 2222.
+
+Running autoexec, please wait...
+System Error: socket_connect: connect:Network is unreachable
+Autoexec daemon run complete. (42ms)
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+CPU time in boot: 0.46 seconds. (Performance score: Spectacular.)
+
+object /secure/daemon/master: eval_cost too big 5000000
+object /secure/daemon/remotepost: eval_cost too big 5000000
+object /secure/daemon/ping: eval_cost too big 5000000
+object /secure/daemon/snoop: eval_cost too big 5000000
+object /secure/daemon/function: eval_cost too big 5000000
+object /secure/daemon/reload: eval_cost too big 5000000
+Shut'er down, Clancy! She's a-pumpin' mud!!
+
+closed external ports
+coMUD
+2014.04.21-11.48,42
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/ping at line 87
+
+'heart_beat' at /secure/daemon/ping at line 87
+
+--- CiscoMUD
+2014.04.21-11.48,42
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/snoop at line 145
+
+'heart_beat' at /secure/daemon/snoop at line 145
+
+--- CiscoMUD
+2014.04.21-11.48,42
+*Too long evaluation. Execution aborted.
+Object: /secure/daemon/function at line 31
+
+'heart_beat' at /secure/daemon/function at line 31
+
+END-OF-LOG

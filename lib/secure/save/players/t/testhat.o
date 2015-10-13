@@ -1,0 +1,125 @@
+#/secure/save/players/t/testhat.c
+InternalDesc 0
+Opacity 0
+PersistentInventory 0
+PersistentInventoryEnabled 0
+ProperNoun 1
+Modify 1
+Short "$N the Cabbage Finder"
+CapName "Testhat"
+ExternalDesc "$N is nondescript."
+Invisible 0
+Items ([])
+Properties (["minimapping":1,"brand_spanking_new":0,"LastLocation":"/domains/cisco/room/ciscoburghomessouth",])
+Inventory ({"([\"Wielded\":0,\"Value\":0,\"Class\":1,\"Worn\":0,\"Deterioration\":0,\"Broken\":0,\"Poison\":0,\"Mass\":3,\"#base_name#\":\"/domains/default/obj/handbook\",\"Cost\":1000,\"Properties\":([\"no steal\":1,]),])","([\"Value\":0,\"Mass\":5,\"Worn\":({\"torso\",}),\"#base_name#\":\"/domains/default/armor/shirt\",\"Deterioration\":0,\"Broken\":0,\"Cost\":1,\"Properties\":([]),\"Poison\":0,])","([\"Value\":0,\"Mass\":5,\"Worn\":({\"right leg\",\"left leg\",}),\"#base_name#\":\"/domains/default/armor/jeans\",\"Deterioration\":0,\"Broken\":0,\"Cost\":1,\"Properties\":([]),\"Poison\":0,])",})
+anchored 0
+Messages (["telin":"$N teleports in.","telout":"$N teleports away.","leave":"$N leaves $D.","vis":"$N appears.","invis":"$N disappears.","home":"$N goes home.","dest":"$N dests $O.","come":"$N enters.","clone":"$N clones $O.",])
+RestrictedChannels ({})
+NoChanColors 0
+GagMutes (["remote_gag":0,"remote_mute":0,"local_mute":0,"local_gag":0,])
+Paused 0
+localcmds ({"parserefresh","quit","nickname","unalias","alias","",})
+parsed_command "quit"
+HistorySize 50
+History ([31:"quit",30:"score",29:"title",28:"search",27:"climb ladder",26:"go east",25:"e",24:"go out",23:"out",22:"give cabbage to mouse king",21:"enter bush",20:"go west",19:"go north",18:"n",17:"go down",16:"d",15:"quest",14:"search bush",13:"look bush",12:"l bush",11:"look cul de sac",10:"l cul de sac",9:"look cabbage",8:"l cabbage",7:"open door",6:"look",5:"l",4:"convert me",3:"convert",2:"skills",1:"wear shirt",0:"wear jeans",])
+Nicknames ([])
+Aliases (["east":"go east","mwhere":"findobj $*","southeast":"go southeast","northeast":"go northeast","prac":"skills","sco":"score","x":"look at $*","w":"go west","u":"go up","t":"tell $*","out":"go out","practice":"skills","s":"go south","vnum":"help find","p":"people","south":"go south","north":"go north","n":"go north","bio":"biography","l":"look $*","k":"kill $*","west":"go west","zlist":"domains","southwest":"go southwest","northwest":"go northwest","i":"inventory","owhere":"findobj $*","e":"go east","d":"go down","c":"cre $*","alist":"ls /domains","inv":"inventory","nw":"go northwest","examine":"look at $*","trophy":"kills","up":"go up","chat":"newbie $*","dc":"dchat $*","exa":"look at $*","sw":"go southwest","ig":"intergossip $*","loot":"get all from $*","ic":"intercre $*","peace":"quell","inf":"score","lp":"lpuni $*","down":"go down","ne":"go northeast","exit":"go out","eq":"equipment","se":"go southeast","sc":"status",])
+Xverbs (["'":"say $*","]":"] $*","\"":"say $*",":":"emote $*",])
+Directories (["current":"/","home":0,"previous":"/",])
+Prompt "status"
+Terminal "ansi"
+Blocked ([])
+Screen ({79,24,})
+MessageQueue 0
+PauseMessages 0
+annoyblock 0
+MessageExceptions 0
+BlockAnnoying 0
+Age 0
+WhereBlock 0
+Brief 0
+LoginTime 1398209588
+BirthTime 1397527211
+RescueBit 0
+Password "icbbjcmj!aokjfelm`iaahi`c`ljmfien`lcgikab"
+Email "asdf@asdf"
+RealName "Unknown"
+Rank "citizen"
+LoginSite "/domains/cisco/room/garden"
+HostSite "127.0.0.1"
+WebPage 0
+News (["general":1233549750,])
+Marriages ({})
+Paranoia (["homeroom":"/tmp/workroom",])
+MaxCarry 0
+PreventDrop 0
+DestructOnDrop 0
+PreventGet 0
+Position 2
+Undead 0
+UndeadType 0
+Mount 0
+Riders ({})
+BodyMass 0
+SaveRecurse 0
+Saved ({"Properties",})
+HealthPoints 50
+MagicPoints 50
+ExperiencePoints 6050
+ExperienceDebt 0
+melee 0
+godmode 0
+Alcohol 0
+Caffeine 0
+Food 85
+Drink 85
+Poison 0
+Sleeping 0
+DeathEvents 0
+StaminaPoints 50.000000
+Torso "torso"
+Biter 0
+keepalive 0
+Fingers (["right hand":5,"left hand":5,])
+Limbs (["right foot":(["children":({}),"armors":241,"health":10,"class":4,"parent":"right leg",]),"right leg":(["children":({"right foot",}),"armors":1049761,"health":10,"class":2,"parent":"torso",]),"head":(["children":({}),"armors":262913,"health":10,"class":1,"parent":"neck",]),"neck":(["children":({"head",}),"armors":786433,"health":10,"class":1,"parent":"torso",]),"left arm":(["children":({"left hand",}),"armors":1253385,"health":10,"class":2,"parent":"torso",]),"left foot":(["children":({}),"armors":241,"health":10,"class":4,"parent":"left leg",]),"left leg":(["children":({"left foot",}),"armors":1049761,"health":10,"class":2,"parent":"torso",]),"torso":(["children":({"neck","right leg","left leg","right arm","left arm",}),"armors":1538049,"health":10,"class":1,"parent":0,]),"right hand":(["children":({}),"armors":98319,"health":10,"class":4,"parent":"right arm",]),"left hand":(["children":({}),"armors":98319,"health":10,"class":4,"parent":"left arm",]),"right arm":(["children":({"right hand",}),"armors":1253385,"health":10,"class":2,"parent":"torso",]),])
+MissingLimbs ([])
+firearms_wounds 0
+ExtraChannels ({"adventurer","gossip","newbie",})
+Agent 0
+Blind 0
+Custom (["stats":15,"deviations":4,"deviating":0,])
+LightSensitivity ({25,7500,})
+Resistance (["low":0,"high":0,"immune":0,"medium":0,"none":134217726,])
+Stats (["Agility":(["class":3,"points":0,"level":53,]),"Wisdom":(["class":3,"points":0,"level":52,]),"Speed":(["class":3,"points":0,"level":40,]),"Intelligence":(["class":1,"points":0,"level":74,]),"Strength":(["class":3,"points":0,"level":28,]),"Durability":(["class":4,"points":0,"level":34,]),"Charisma":(["class":2,"points":0,"level":48,]),"Coordination":(["class":2,"points":0,"level":36,]),"Luck":(["class":3,"points":0,"level":22,]),])
+Polyglot 0
+Languages (["english":(["native":1,"name":"English","points":0,"level":100,]),"common":(["native":0,"name":"Common","points":0,"level":100,]),])
+DefaultLanguage "Common"
+TalkHist (["exclaim":({"2014.04.22-18.02,35 Mouse king exclaims in English, \"%^BOLD%^CYAN%^You have solved the Missing Cabbage Quest. Congratulations!%^RESET%^\"","2014.04.22-18.02,35 Mouse king exclaims in English, \"%^BOLD%^CYAN%^I hereby award you 10 quest points, and 2000 experience points!%^RESET%^\"","2014.04.22-18.03,15 Mouse king exclaims in English, \"%^BOLD%^CYAN%^You have solved the Missing Cabbage Quest. Congratulations!%^RESET%^\"","2014.04.22-18.03,15 Mouse king exclaims in English, \"%^BOLD%^CYAN%^I hereby award you 10 quest points, and 2000 experience points!%^RESET%^\"",}),])
+SpeakColor "CYAN%^"
+Town "Town"
+Race "human"
+Gender "neuter"
+Level 6
+Skills (["Magic Defense":(["class":1,"points":0,"level":6,]),"Melee Defense":(["class":1,"points":0,"level":6,]),"Multi-weapon":(["class":1,"points":0,"level":6,]),"Stealth":(["class":1,"points":0,"level":6,]),"Melee Attack":(["class":1,"points":0,"level":6,]),"Blade Defense":(["class":1,"points":0,"level":6,]),"Detection":(["class":1,"points":0,"level":6,]),"Blade Attack":(["class":1,"points":0,"level":6,]),"Projectile Attack":(["class":1,"points":0,"level":6,]),"Healing":(["class":1,"points":0,"level":6,]),"Blunt Defense":(["class":1,"points":0,"level":6,]),"Multi-hand":(["class":1,"points":0,"level":6,]),"Projectile Defense":(["class":1,"points":0,"level":6,]),"Magic Attack":(["class":1,"points":0,"level":6,]),"Blunt Attack":(["class":1,"points":0,"level":6,]),])
+Morality 0
+Class "adventurer"
+Clan 0
+SkillModifiers ([])
+Religion ({0,0,})
+Wimpy 0
+Dead 0
+WimpyCommand "go out"
+Currency (["silver":124,])
+Bank ([])
+SpellBook ([])
+QuestPoints 30
+QuestBook (["the Cabbage Finder":(["Date":1398209628,"Description":"The Missing Cabbage",]),"The Missing Cabbage":(["Date":1398207795,"Description":"Missing Cabbage Quest",]),])
+isPK 0
+Attackable 1
+NoCondition 0
+Titles ({"the Cabbage Finder","the expert adventurer","The Missing Cabbage",})
+Muffed ({})
+Deaths 0
+TrainingPoints 20
+TitleLength 1
+telopt_ip 0
